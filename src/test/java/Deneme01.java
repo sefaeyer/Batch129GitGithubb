@@ -5,6 +5,7 @@ public class Deneme01 {
         System.out.println("B129");
         //gggiiittttt
         //merhaba dunya
+        //yeni deneme
 
     }
 }
