@@ -3,7 +3,7 @@ public class Deneme01 {
         System.out.println("Merhaba");
         System.out.println("Dunya");
         System.out.println("B129");
-        //gitt
+        //B129
     }
 }
 //restore --> tamamen workin space i temizler
