@@ -4,6 +4,8 @@ public class Deneme01 {
         System.out.println("Dunya");
         System.out.println("B129");
         //gggiiittttt
+        //merhaba dunya
+
     }
 }
 //restore --> tamamen workin space i temizler
