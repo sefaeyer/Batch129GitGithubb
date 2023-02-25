@@ -6,6 +6,7 @@ public class Deneme01 {
         //gggiiittttt
         //merhaba dunya
         //yeni deneme
+        //yeni deneme 2
 
     }
 }
